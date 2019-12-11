@@ -7,5 +7,7 @@ public class scr_DisplayIdentification : MonoBehaviour
 {
     public Text firstName;
     public Text lastName;
+    public Text fullName;
     public Text sex;
+
 }
